@@ -4,4 +4,4 @@ Task1.py -> Generates MD5 of string data
 
 Task2.py -> Generates hashes of string data using 3 algorithms from hashlib
 
-Task3.py -> Includes salting and iterations to hashes from Task2.py
+Task3.py -> Adds salting and iterations to hashes
