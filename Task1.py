@@ -1,4 +1,4 @@
 import hashlib
 text = input("Enter string data: ")
-hash_text = hashlib.md5(text.encode()).hexdigest()
-print ("MD5: " + hash_text)
+md5_hash = hashlib.md5(text.encode()).hexdigest()
+print ("MD5: " + md5_hash)
